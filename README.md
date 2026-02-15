@@ -19,9 +19,8 @@ A modular backend simulation is implemented in C to model:
 This simulation demonstrates the core decision-making mechanism of the proposed framework.
 
 ## Prototype
-Interactive UI Prototype (Figma):
+[Interactive UI Prototype (Figma):](https://www.figma.com/proto/440OMCFLPOx4NU08z3O2s0/Untitled?node-id=0-1&t=KWBO4JE2u1f2KYgx-1)
 
-https://www.figma.com/proto/440OMCFLPOx4NU08z3O2s0/Untitled?node-id=0-1&t=KWBO4JE2u1f2KYgx-1
 
 
 ## Future Scope
@@ -40,7 +39,7 @@ To develop a cost-effective, scalable, and adaptive traffic management approach 
 Project Presentation:
 
 [▶ Crowd-Integrated Intelligent Traffic Management System (CITMS)
-](url)
+](https://github.com/ShouryaVijayvargiya/Smart-traffic-Management-/blob/main/Crowd-Integrated%20Intelligent%20Traffic%20Management%20System%20(CITMS).pptx)
 
 
 
