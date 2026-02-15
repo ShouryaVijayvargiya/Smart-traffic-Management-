@@ -35,4 +35,12 @@ The architecture is designed for future integration with:
 ## Objective
 To develop a cost-effective, scalable, and adaptive traffic management approach that incorporates real-time human awareness into intelligent traffic control.
 
+## Presentation
+
+Project Presentation:
+
+[▶ Crowd-Integrated Intelligent Traffic Management System (CITMS)
+](url)
+
+
 
